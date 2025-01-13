@@ -41,7 +41,7 @@
 
 1. **Adicionar o cluster EKS ao contexto do kubeconfig**  
    ```bash
-   aws eks --region us-east-1 update-kubeconfig --name linuxtips-cluster
+   aws eks --region us-east-1 update-kubeconfig --name nome-do-cluster
    ```
    
 ---
